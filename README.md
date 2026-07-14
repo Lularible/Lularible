@@ -43,7 +43,7 @@ graph TB
 | ③ | **HSM 安全模块** | PKCS#11 v3.1、SoftHSM2 源码、hsm-lite 实现 | 🖥️ hsm-lite（~620 行 C） | [![Stars](https://img.shields.io/github/stars/Lularible/hsm-book)](https://github.com/Lularible/hsm-book) |
 | ④ | **Flash 存储技术** | Flash 物理、LittleFS 源码、KnotFS 实现 | 🖥️ KnotFS（~840 行 C） | [![Stars](https://img.shields.io/github/stars/Lularible/storage-book)](https://github.com/Lularible/storage-book) [![收录](https://img.shields.io/badge/周刊收录-brightgreen)](https://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) |
 | ⑤ | **UDS 诊断协议** | ISO 14229、AUTOSAR DCM 源码、uds-lite 实现 | 🖥️ uds-lite（~800 行 C） | [![Stars](https://img.shields.io/github/stars/Lularible/uds-book)](https://github.com/Lularible/uds-book) |
-| ⑥ | **功能安全** | ISO 26262、安全机制设计、safe-lite 实现 | 🖥️ safe-lite（打磨中） | 🔄 打磨中 |
+| ⑥ | **功能安全** | ISO 26262、安全机制设计、safe-lite 实现 | 🖥️ safe-lite（~1100 行 C） | [![Stars](https://img.shields.io/github/stars/Lularible/safety-book-iso26262)](https://github.com/Lularible/safety-book-iso26262) |
 | ⑦ | **软件工程** | MISRA C、ASPICE、工程实践、eng-lite 实现 | 🖥️ eng-lite（打磨中） | 🔄 打磨中 |
 
 ---
@@ -67,7 +67,7 @@ graph TB
 | [HSM 安全模块](https://github.com/Lularible/hsm-book) | ③ 安全方向 |
 | [Flash 存储技术](https://github.com/Lularible/storage-book) | ④ 底层方向 |
 | [UDS 诊断协议](https://github.com/Lularible/uds-book) | ⑤ 协议方向 |
-| 功能安全（即将发布） | ⑥ 安全方向 |
+| [功能安全](https://github.com/Lularible/safety-book-iso26262) | ⑥ 安全方向 |
 | 软件工程（即将发布） | ⑦ 建议最后阅读 |
 
 ---
